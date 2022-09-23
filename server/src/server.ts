@@ -45,7 +45,7 @@ app.post('/games/:id/ads', async (request, response) => {
   return response.json(ad)
 })
 
-app.get('games/:id/ads', async (request, response) => {
+app.get('/games/:id/ads', async (request, response) => {
   const gameId = request.params.id
 
   const ads = await prisma.ad.findMany({
