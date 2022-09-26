@@ -1,4 +1,4 @@
-#### Switch to english: <kbd>[<img title="English" alt="English" src="./.github/eua.jpg" width="22">](./.github/translation/translation/english/README.en.md)</kbd>
+#### Switch to english: <kbd>[<img title="English" alt="English" src="./.github/eua.jpg" width="22">](.github/translation/translation/english/README.en.md)</kbd>
 
 # 🔎 Indice
 
@@ -10,9 +10,13 @@
 
 # 🎉 Preview in the Web
 
+https://user-images.githubusercontent.com/83084631/192185732-e39dfac7-e35e-48ce-946f-262793e6e1de.mp4
+
 ---
 
 # 🎉 Preview in the Mobile
+
+https://user-images.githubusercontent.com/83084631/192185571-68810c57-c244-4b36-94f9-7774d8863635.mp4
 
 ---
 
