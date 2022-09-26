@@ -1,4 +1,4 @@
-#### Switch to english: <kbd>[<img title="English" alt="English" src="./.github/eua.jpg" width="22">](.github/translation/translation/english/README.en.md)</kbd>
+#### Switch to english: <kbd>[<img title="English" alt="English" src="./.github/eua.jpg" width="22">](.github/translation/english/README.en.md)</kbd>
 
 # 🔎 Indice
 
